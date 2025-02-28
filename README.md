@@ -1,0 +1,1 @@
+详细介绍见[基于Qt-QML开发的串口波形助手(软件分享)-CSDN博客](https://blog.csdn.net/qq_47288055/article/details/145923146?sharetype=blogdetail&sharerId=145923146&sharerefer=PC&sharesource=qq_47288055&spm=1011.2480.3001.8118)
